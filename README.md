@@ -8,6 +8,7 @@ Oneiric is a simple web-based music player built using HTML, CSS, and JavaScript
 ![Screenshot 3](screenshots/3.png)
 ![Screenshot 4](screenshots/4.png)
 ![Screenshot 5](screenshots/5.png)
+![Screenshot 6](screenshots/6.png)
 ## Features
 - Search
 - Next
@@ -21,6 +22,9 @@ Oneiric is a simple web-based music player built using HTML, CSS, and JavaScript
 The `.mp3` files need to be correctly tagged. You can edit tags using apps such as: 
 - [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger&hl=en_IN)
 - [Automatic Tag Editor](https://play.google.com/store/apps/details?id=tageditor.automatictageditor.audiotagging.audioedit.mp3edit&hl=en_IN)
+
+>[!Note]
+>Stay connected to the internet while using Oneiric, as `wave.js` requires an active internet connection to display the sound animations.
 
 ## Setup
 
@@ -54,3 +58,7 @@ To run this project, follow the steps below:
   ```/```
 - Add Song to a Queue:  
   ```Right Click```
+
+# Dependencies
+- [Wave.js](https://github.com/foobar404/Wave.js/)
+- [music-metadata](https://www.npmjs.com/package/music-metadata)
