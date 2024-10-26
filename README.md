@@ -38,7 +38,7 @@ To run this project, follow the steps below:
      ```bash
      node sorting.js
      ```
-5. Download the ```intro.mp4``` from here [intro.mp4](https://drive.google.com/file/d/1laqpT7H4IYjxZxdDT7Vq_A3NWiqTTIUY/view?usp=sharing)
+5. Download the ```intro.mp4``` from here [intro.mp4](https://drive.google.com/file/d/1laqpT7H4IYjxZxdDT7Vq_A3NWiqTTIUY/view?usp=sharing) and paste it into ```/animations``` directory
 6. Open `\home.html` and change the radio button `value` and `id` attributes to the genre names.
 7. Run the whole directory on a local server at `127.0.0.1:5500`.
 
