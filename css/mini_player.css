@@ -1,0 +1,201 @@
+.mini_player {
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    width: 99.75%;
+    margin: 0 0;
+    justify-content: center;
+    background-color: inherit;
+}
+
+.lower_part {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: inherit;
+    order: 1;
+    justify-content: space-between;
+}
+
+.slider_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.current_time {
+    float: left;
+}
+
+.total_duration {
+    float: right;
+}
+
+.seek_slider {
+    width: inherit;
+    /* Adjust this value to your preference */
+    height: 0.5vh;
+    background: #ddd;
+    outline: none;
+    /* -webkit-appearance: none; */
+    /* appearance: none; */
+}
+.seek_slider::-webkit-slider-thumb {
+    /* display: none; */
+    -webkit-appearance: none;
+    appearance: none;
+    width: 0.85vw;
+    /* Adjust this value to your preference */
+    height: 0.85vw;
+    background: transparent;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: background 0.5s ease-in-out;
+    visibility: 0;
+}
+
+.seek_slider:hover::-webkit-slider-thumb
+{
+    background: #11cfdd;
+}
+
+/* .seek_slider::-moz-range-thumb {
+    width: 1.3vw;
+    height: 1vh;
+    background: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
+} */
+
+.player_btn {
+    cursor: pointer;
+    gap: 1vw;
+}
+
+.song_meta_data {
+    display: flex;
+    flex-direction: column;
+    width: 16vw;
+}
+
+.song_meta_data_child {
+    font-size: small;
+    margin: 0 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.controls {
+    /* This selects the second div */
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    /* This centers the div */
+}
+
+.control_btn img, .player_btn img {
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    border-radius: 50%;
+    width: 1.35vw;
+    height: auto;
+    padding: 0.25vw 0.25vw;
+}
+
+.control_btn img:hover, .player_btn img:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+    fill: none;
+    background-color: #91898980;
+}
+
+.control_btn :active {
+    transform: scale(0.9);
+}
+
+.control_btn {
+    gap: 1vw;
+}
+
+.albumart {
+    width: 4vw;
+    height: 4vw;
+    padding: 0 0;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.song_data {
+    gap: 1vw;
+}
+
+.albumart img {
+    filter: none;
+    width: 80%;
+    height: 80%;
+    border-radius: inherit;
+}
+
+.volume-control {
+    opacity: 0;
+    transition: opacity 0.25s ease-out;
+}
+
+.volume_controls:hover .volume-control {
+    opacity: 1;
+    transition: opacity 0.25s ease-in;
+}
+.volume_controls
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.volume-control {
+    width: inherit;
+    height: 0.25vh;
+    /* background: #11cfdd; */
+    outline: none;
+    /* -webkit-appearance: none; */
+}
+
+/* #volumeSlider {
+    height: 025vw;
+} */
+
+.volume-control::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 0.75vw;
+    height: .75vw;
+    background: #ffffff;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.volume-control::-moz-range-thumb {
+    width: 1.3vw;
+    height: 1vh;
+    background: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.volume-control::-moz-range-progress {
+    background: #11cfdd; /* Change this to your desired color */
+}
+
+.mini_player
+{
+    display: none;
+    transition: 0.2s ease-in-out;
+}

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ONEIRIC</title>
+    <link rel="icon" href="logo_1.png" type="image/png">
+    <link rel="stylesheet" href="css/globals.css">
+    <link rel="stylesheet" href="css/top_bar.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/contents.css">
+    <link rel="stylesheet" href="css/mini_player.css">
+</head>
+<script src="https://cdn.jsdelivr.net/gh/foobar404/wave.js/dist/bundle.js"></script>
+
+<body>
+    <div class="top_bar">
+        <div class="logo_section">
+            <object data="new_ logo.svg" type="image/svg+xml" id="logo"></object>
+        </div>
+        <div class="search">
+            <div class="search_bar">
+                <img src="icons/search.svg" alt=""><input type="search" name="search_bar_inp" id="search_bar_inp"
+                    placeholder="Search">
+            </div>
+            <div id="results"></div>
+        </div>
+    </div>
+    <div class="contents">
+        <div class="genre_selector" style="display: flex;">
+            <input type="radio" name="genre" id="alternative" value="alternative">
+            <label for="alternative">Alternative</label>
+
+            <input type="radio" name="genre" id="bollywood" value="bollywood">
+            <label for="bollywood">Bollywood</label>
+
+            <input type="radio" name="genre" id="pop" value="pop">
+            <label for="pop">Pop</label>
+
+            <input type="radio" name="genre" id="dance" value="dance">
+            <label for="dance">Dance</label>
+
+            <input type="radio" name="genre" id="r_b_soul" value="r_b_soul">
+            <label for="r_b_soul">R-B & Soul</label>
+
+            <input type="radio" name="genre" id="electronic" value="electronic">
+            <label for="electronic">Electronic</label>
+
+            <input type="radio" name="genre" id="worldwide" value="worldwide">
+            <label for="worldwide">Worldwide</label>
+
+            <input type="radio" name="genre" id="hip_hop_rap" value="hip_hop_rap">
+            <label for="hip_hop_rap">Hip-Hop/Rap</label>
+            
+            <input type="radio" name="genre" id="rock" value="rock">
+            <label for="rock">Rock</label>
+        </div>
+        <div class="__canvas">
+            <canvas width="1920" height="737" id="waves"></canvas>
+        </div>
+        <div class="expanded_view">
+            <div class="albumart">
+                <img src="albumArt/Sunflower.jpeg" alt="">
+            </div>
+            <div class="queue">
+                <p class="up_next">Up Next</p>
+                <div class="queue_list">
+
+                </div>
+            </div>
+        </div>
+        <div class="songs_list" style="display: grid;">
+
+        </div>
+    </div>
+    <div class="mini_player">
+        <div class="slider_container">
+            <input id="seek_slider" class="seek_slider" type="range" min="0" max="100" value="0">
+            <div class="slider_time">
+                <div class="current_time">00:00</div>
+                <div class="total_duration">00:00</div>
+            </div>
+        </div>
+        <div class="lower_part">
+            <div class="song_data">
+                <div class="albumart">
+                    <img src="" alt="albumart">
+                </div>
+                <div class="song_meta_data">
+                    <p class="song_meta_data_child">Song Name</p>
+                    <p class="song_meta_data_child">Album Name</p>
+                    <p class="song_meta_data_child">Artist Name</p>
+                </div>
+            </div>
+            <div class="controls">
+                <div class="control_btn">
+                    <img src="icons/shuffle.svg" alt="">
+                    <img src="icons/skip_previous.svg" alt="" onclick="prevTrack()">
+                    <img src="icons/play_arrow.svg" alt="" onclick="playpauseTrack()">
+                    <img src="icons/skip_next.svg" alt="" onclick="nextTrack()">
+                    <img src="icons/repeat.svg" alt="" onclick="repeatmodes()">
+                </div>
+            </div>
+            <div class="player_btn">
+                <div class="volume_controls">
+                    <input type="range" id="volume-control" class="volume-control" min="0" max="1" step="0.01"
+                        value="1">
+                    <img src="icons/volume_up.svg" alt="">
+                </div>
+                <img src="icons/expand_more.svg" alt="">
+                <img src="icons/animation.svg" alt="">
+                <img src="icons/delete.svg" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+<script src="js/buttons.js"></script>
+</html>

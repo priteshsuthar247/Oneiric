@@ -1,0 +1,90 @@
+body
+{
+    font-family: "Inter", sans-serif;
+    color: aliceblue;
+    background-color: #0c0c0c;
+    margin: 0 0;
+    /* filter: grayscale(1); */
+}
+/* @font-face 
+{
+    font-family: 'Elianto';
+    src: url('C:\\Windows\\fonts\\Elianto-Regular.ttf') format('truetype');
+}
+title
+{
+    font-family: "Elianto", sans-serif;
+} */
+img
+{
+    filter: invert(1);
+}
+#logo
+{
+    width: 8vw;
+    /* height: 20vh; */
+    filter: none;
+}
+.top_bar,
+.logo_section,
+.search_bar,
+.options,
+.song_data,
+.control_btn,
+.player_btn,
+.genre_selector {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+html
+{
+    filter: grayscale(0);
+}
+.icon
+{
+    width: 2vw;
+    /* height: ; */
+}
+
+
+body {
+    --sb-track-color: transperant;
+    --sb-thumb-color: #c3c3c3;
+    --sb-size: 0.65vw;
+  }
+  
+  #results::-webkit-scrollbar,
+  body::-webkit-scrollbar,
+  .queue_list::-webkit-scrollbar,
+  .songs_list::-webkit-scrollbar {
+    width: var(--sb-size)
+  }
+  
+  #results::-webkit-scrollbar-track,
+  body::-webkit-scrollbar-track,
+  .queue_list::-webkit-scrollbar-track,
+  .songs_list::-webkit-scrollbar-track {
+    background: var(--sb-track-color);
+    border-radius: 3px;
+  }
+  
+  #results::-webkit-scrollbar-thumb,
+  body::-webkit-scrollbar-thumb,
+  .queue_list::-webkit-scrollbar-thumb,
+  .songs_list::-webkit-scrollbar-thumb {
+    background: #c3c3c3;
+    filter: opacity(0);
+    border-radius: 3px;
+    
+  }
+  
+  @supports not selector(::-webkit-scrollbar) {
+    body {
+      scrollbar-color: var(--sb-thumb-color)
+                       var(--sb-track-color);
+    }
+  }

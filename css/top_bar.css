@@ -1,0 +1,93 @@
+.top_bar {
+    gap: 9.323vw;
+    /* position: sticky; top: 0; */
+    width: 100%;
+    /* position: -webkit-sticky; */
+    /* position: sticky; */
+    top: 0;
+    background-color: inherit;
+    z-index: 1;
+}
+
+
+.logo_section,
+.search_bar {
+    gap: 0.521vw;
+}
+
+.search
+{
+    display: flex;
+    flex-direction: column;
+    gap: 0.25vw;
+    position: relative;
+}
+
+.logo_section {
+    padding: 0.5vh 0.5vw;
+}
+
+#search_bar_inp {
+    width: 42.344vw;
+    height: 100%;
+    background-color: inherit;
+    outline: none;
+    border: none;
+    color: aliceblue;
+    font-family: 'Inter';
+}
+
+.search_bar {
+    height: 100%;
+    padding: 1vh 1vw;
+    border: solid 0.052vw;
+    border-radius: 0.521vh;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#results {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25vw;
+    border: 1px solid #dcdcdc;
+    /* Light grey border */
+    border-radius: 2px;
+    /* Slightly rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    /* A subtle shadow for depth */
+    /* background-color: #333; */
+    /* White background */
+    padding: 10px;
+    /* Some padding so the text isn't right up against the edge */
+    max-height: 200px;
+    /* Don't let the box get too tall */
+    overflow-y: auto;
+    /* Add a scrollbar if there's too much content */
+    font-size: 14px;
+    /* Slightly smaller text */
+    line-height: 20px;
+    /* More space between lines of text */
+    /* color: #ffffff; */
+    /* Dark grey text */
+    top: 2.5vw;
+    position: absolute;  /* Add this line */
+    z-index: 1;
+    width: 97.5%;
+    background-color: #282828; /* Dark background */
+    color: #fff;
+    display: none;
+}
+#results div {
+    /* padding: 10px; */
+    cursor: pointer;
+    transition: 0.3s ease-out;
+}
+
+#results div:hover {
+    background-color: #383838; /* Slightly lighter background on hover */
+}
