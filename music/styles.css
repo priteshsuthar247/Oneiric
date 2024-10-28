@@ -1,0 +1,10 @@
+/* #canvasElmId{
+    height: 20vw;
+    width: 20vw;
+} */
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
