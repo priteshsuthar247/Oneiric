@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Sirens",
+    "artist": "Rudy Mancuso, Maia Mitchell",
+    "album": "Sirens",
+    "genre": [
+      "Contemporary Pop"
+    ],
+    "filePath": "music\\Rudy Mancuso\\Sirens.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Rudy Mancuso\\Sirens.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Sirens.jpeg"
+  }
+]

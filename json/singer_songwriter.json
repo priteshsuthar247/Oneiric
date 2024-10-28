@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Let Her Go",
+    "artist": "Passenger",
+    "album": "All the Little Lights (Deluxe Version)",
+    "genre": [
+      "Singer",
+      "Songwriter"
+    ],
+    "filePath": "music\\International Songs\\Let Her Go.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Let Her Go.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Let Her Go.jpeg"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Ay Vamos (feat. French Montana & Nicky Jam)",
+    "artist": "J Balvin",
+    "album": "Furious 7 (Original Motion Picture Soundtrack)",
+    "genre": [
+      "Urbano latino"
+    ],
+    "filePath": "music\\Fast & Furious\\Ay Vamos.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Fast & Furious\\Ay Vamos.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Ay Vamos.jpeg"
+  },
+  {
+    "title": "Mi Gente",
+    "artist": "J Balvin & Willy William",
+    "album": "Mi Gente (F4st, Velza & Loudness Remix) - Single",
+    "genre": [
+      "Urbano latino"
+    ],
+    "filePath": "music\\International Songs\\Mi Gente.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Mi Gente.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Mi Gente.jpeg"
+  }
+]

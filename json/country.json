@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Old Town Road (feat. Billy Ray Cyrus)",
+    "artist": "Lil Nas X",
+    "album": "Old Town Road (feat. Billy Ray Cyrus) [Remix] - Single",
+    "genre": [
+      "Country"
+    ],
+    "filePath": "music\\International Songs\\Old Town Road (Remix).mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Old Town Road (Remix).mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Old Town Road (Remix).jpeg"
+  }
+]

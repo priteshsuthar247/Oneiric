@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Undefeated",
+    "artist": "Tauren Wells (feat. KB)",
+    "album": "Hills and Valleys",
+    "genre": [
+      "Gospel & Christian"
+    ],
+    "filePath": "music\\International Songs\\Undefeated.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Undefeated.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Undefeated.jpeg"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "album": "24K Magic",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Bruno Mars\\24K Magic.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Bruno Mars\\24K Magic.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\24K Magic.jpeg"
+  },
+  {
+    "title": "Animals",
+    "artist": "Maroon 5",
+    "album": "Hot Girl Anthems",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Animals - Maroon 5.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Animals - Maroon 5.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Animals - Maroon 5.jpeg"
+  },
+  {
+    "title": "Attention",
+    "artist": "Charlie Puth",
+    "album": "Voicenotes",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Attention.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Attention.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Attention.jpeg"
+  },
+  {
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "album": "Bad",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Bad.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Bad.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Bad.jpeg"
+  },
+  {
+    "title": "Bad Girls",
+    "artist": "MKTO",
+    "album": "Bad Girls - EP",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Bad Girls.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Bad Girls.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Bad Girls.jpeg"
+  },
+  {
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Beat it.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Beat it.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Beat it.jpeg"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Billie Jean.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Billie Jean.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Billie Jean.jpeg"
+  },
+  {
+    "title": "Black and White",
+    "artist": "Rudy Mancuso & Poo Bear",
+    "album": "Black & White - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Rudy Mancuso\\Black and White.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Rudy Mancuso\\Black and White.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Black and White.jpeg"
+  },
+  {
+    "title": "Black or White",
+    "artist": "Michael Jackson",
+    "album": "Dangerous",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Black or White.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Black or White.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Black or White.jpeg"
+  },
+  {
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "album": "Native",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\One Republic\\Counting Stars.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\One Republic\\Counting Stars.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Counting Stars.jpeg"
+  },
+  {
+    "title": "Dangerous",
+    "artist": "Michael Jackson",
+    "album": "Dangerous",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Dangerous.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Dangerous.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Dangerous.jpeg"
+  },
+  {
+    "title": "Feeling Good",
+    "artist": "Michael Bublé",
+    "album": "It's Time",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Feeling Good.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Feeling Good.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Feeling Good.jpeg"
+  },
+  {
+    "title": "Fun",
+    "artist": "Loving Caliber",
+    "album": "Kill the Lights",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Fun.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Fun.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Fun.jpeg"
+  },
+  {
+    "title": "I Found a Girl",
+    "artist": "The Vamps",
+    "album": "Wake Up (Deluxe)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\The Vamps\\I Found A Girl.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\The Vamps\\I Found A Girl.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\I Found A Girl.jpeg"
+  },
+  {
+    "title": "I Lived",
+    "artist": "OneRepublic",
+    "album": "Native",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\One Republic\\I Lived.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\One Republic\\I Lived.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\I Lived.jpeg"
+  },
+  {
+    "title": "I Took a Pill in Ibiza (Seeb Remix)",
+    "artist": "Louis Weisz",
+    "album": "I Took a Pill in Ibiza (Seeb Remix) - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\I Took A Pill In Ibiza (Seeb Remix).mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\I Took A Pill In Ibiza (Seeb Remix).mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\I Took A Pill In Ibiza (Seeb Remix).jpeg"
+  },
+  {
+    "title": "If I Lose Myself",
+    "artist": "OneRepublic",
+    "album": "Native",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\One Republic\\If I Lose Myself.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\One Republic\\If I Lose Myself.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\If I Lose Myself.jpeg"
+  },
+  {
+    "title": "Jerk It Out",
+    "artist": "Caesars",
+    "album": "Jerk It Out - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Jerk It Out.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Jerk It Out.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Jerk It Out.jpeg"
+  },
+  {
+    "title": "Just My Type",
+    "artist": "The Vamps",
+    "album": "Night & Day (Day Edition)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\The Vamps\\Just My Type.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\The Vamps\\Just My Type.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Just My Type.jpeg"
+  },
+  {
+    "title": "Lento",
+    "artist": "Rudy Mancuso",
+    "album": "Lento - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Rudy Mancuso\\Lento.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Rudy Mancuso\\Lento.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Lento.jpeg"
+  },
+  {
+    "title": "Levitating (feat. DaBaby)",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Levitating (feat. DaBaby).mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Levitating (feat. DaBaby).mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Levitating (feat. DaBaby).jpeg"
+  },
+  {
+    "title": "Locked Away (feat. Adam Levine)",
+    "artist": "R. City",
+    "album": "What Dreams Are Made Of",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Locked Away.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Locked Away.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Locked Away.jpeg"
+  },
+  {
+    "title": "Locked Out of Heaven",
+    "artist": "Bruno Mars",
+    "album": "Unorthodox Jukebox",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Bruno Mars\\Locked out of Heaven.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Bruno Mars\\Locked out of Heaven.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Locked out of Heaven.jpeg"
+  },
+  {
+    "title": "Lost Stars",
+    "artist": "Adam Levine",
+    "album": "Begin Again (Music From and Inspired By the Original Motion Picture)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Lost Stars.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Lost Stars.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Lost Stars.jpeg"
+  },
+  {
+    "title": "Magic LKii Remix",
+    "artist": "Rudy Mancuso & Maia Mitchell",
+    "album": "Magic (LöKii Remix) - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Rudy Mancuso\\Magic LKii Remix.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Rudy Mancuso\\Magic LKii Remix.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Magic LKii Remix.jpeg"
+  },
+  {
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "album": "Memories - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Memories.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Memories.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Memories.jpeg"
+  },
+  {
+    "title": "Moonshine",
+    "artist": "Bruno Mars",
+    "album": "Unorthodox Jukebox",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Bruno Mars\\Moonshine.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Bruno Mars\\Moonshine.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Moonshine.jpeg"
+  },
+  {
+    "title": "My Angel",
+    "artist": "Prince Royce",
+    "album": "Furious 7 (Original Motion Picture Soundtrack)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Fast & Furious\\My Angel.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Fast & Furious\\My Angel.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\My Angel.jpeg"
+  },
+  {
+    "title": "New Rules",
+    "artist": "Dua Lipa",
+    "album": "Dua Lipa (Deluxe)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\New Rules.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\New Rules.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\New Rules.jpeg"
+  },
+  {
+    "title": "Night Changes",
+    "artist": "One Direction",
+    "album": "FOUR (The Ultimate Edition)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Night Changes.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Night Changes.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Night Changes.jpeg"
+  },
+  {
+    "title": "No One Else Like You",
+    "artist": "Adam Levine",
+    "album": "Begin Again (Music From and Inspired By the Original Motion Picture)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\No One Else Like You.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\No One Else Like You.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\No One Else Like You.jpeg"
+  },
+  {
+    "title": "On the Floor (feat. Pitbull)",
+    "artist": "Jennifer Lopez",
+    "album": "LOVE? (Deluxe Edition)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\On The Floor.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\On The Floor.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\On The Floor.jpeg"
+  },
+  {
+    "title": "Photograph",
+    "artist": "Ed Sheeran",
+    "album": "x",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Photograph.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Photograph.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Photograph.jpeg"
+  },
+  {
+    "title": "Remember the Time",
+    "artist": "Michael Jackson",
+    "album": "Dangerous",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Remember the Time.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Remember the Time.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Remember the Time.jpeg"
+  },
+  {
+    "title": "Run",
+    "artist": "OneRepublic",
+    "album": "One Night In Malibu",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\One Republic\\Run.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\One Republic\\Run.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Run.jpeg"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "÷ (Deluxe)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Shape Of You.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Shape Of You.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Shape Of You.jpeg"
+  },
+  {
+    "title": "Smooth Criminal",
+    "artist": "Michael Jackson",
+    "album": "Bad",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Smooth Criminal.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Smooth Criminal.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Smooth Criminal.jpeg"
+  },
+  {
+    "title": "Somebody To You (feat. Demi Lovato)",
+    "artist": "The Vamps",
+    "album": "Meet the Vamps",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\The Vamps\\Somebody To You.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\The Vamps\\Somebody To You.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Somebody To You.jpeg"
+  },
+  {
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "album": "Purpose",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Sorry.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Sorry.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Sorry.jpeg"
+  },
+  {
+    "title": "Stitches",
+    "artist": "Shawn Mendes",
+    "album": "Handwritten",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Stitches.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Stitches.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Stitches.jpeg"
+  },
+  {
+    "title": "Strip That Down (feat. Quavo)",
+    "artist": "Liam Payne",
+    "album": "Strip That Down (feat. Quavo) - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Strip That Down.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Strip That Down.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Strip That Down.jpeg"
+  },
+  {
+    "title": "Summer High",
+    "artist": "AP Dhillon",
+    "album": "Summer High - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\AP Dhillon\\Summer High.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\AP Dhillon\\Summer High.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Summer High.jpeg"
+  },
+  {
+    "title": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+    "artist": "Jason Derulo",
+    "album": "Swalla (feat. Nicki Minaj & Ty Dolla $ign) - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Swalla.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Swalla.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Swalla.jpeg"
+  },
+  {
+    "title": "Teeth",
+    "artist": "5 Seconds of Summer",
+    "album": "CALM",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Teeth.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Teeth.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Teeth.jpeg"
+  },
+  {
+    "title": "Temperature",
+    "artist": "Sean Paul",
+    "album": "The Trinity",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Temparature.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Temparature.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Temparature.jpeg"
+  },
+  {
+    "title": "The Lazy Song",
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Bruno Mars\\The Lazy Song.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Bruno Mars\\The Lazy Song.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\The Lazy Song.jpeg"
+  },
+  {
+    "title": "There's Nothing Holdin' Me Back",
+    "artist": "Shawn Mendes",
+    "album": "Illuminate (Deluxe)",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\There's Nothing Holdin' Me Back.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\There's Nothing Holdin' Me Back.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\There's Nothing Holdin' Me Back.jpeg"
+  },
+  {
+    "title": "They Don't Care About Us",
+    "artist": "Michael Jackson",
+    "album": "HIStory: Past, Present and Future, Book I",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\They Don't Care About Us.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\They Don't Care About Us.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\They Don't Care About Us.jpeg"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Thriller.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Thriller.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Thriller.jpeg"
+  },
+  {
+    "title": "To Brazil!",
+    "artist": "Vengaboys",
+    "album": "Greatest Hits!",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Brasil.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Brasil.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Brasil.jpeg"
+  },
+  {
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson",
+    "album": "Uptown Special",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Bruno Mars\\Uptown Funk.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Bruno Mars\\Uptown Funk.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Uptown Funk.jpeg"
+  },
+  {
+    "title": "Wanna Be Startin' Somethin'",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\Micheal Jackson\\Wanna Be Startin Somethin.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Micheal Jackson\\Wanna Be Startin Somethin.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Wanna Be Startin Somethin.jpeg"
+  },
+  {
+    "title": "West Coast",
+    "artist": "OneRepublic",
+    "album": "West Coast - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\One Republic\\West Coast.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\One Republic\\West Coast.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\West Coast.jpeg"
+  },
+  {
+    "title": "Wolves",
+    "artist": "Selena Gomez & Marshmello",
+    "album": "Wolves - Single",
+    "genre": [
+      "Pop"
+    ],
+    "filePath": "music\\International Songs\\Wolves.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Wolves.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Wolves.jpeg"
+  }
+]

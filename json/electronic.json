@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Lean On (feat. MØ & DJ Snake)",
+    "artist": "Major Lazer",
+    "album": "Peace Is The Mission",
+    "genre": [
+      "Electronic"
+    ],
+    "filePath": "music\\International Songs\\Lean On.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Lean On.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Lean On.jpeg"
+  },
+  {
+    "title": "Speakerbox (feat. Ohana Bam & Lafa Taylor) [F8 Remix]",
+    "artist": "Bassnectar",
+    "album": "The Fate of the Furious: The Album",
+    "genre": [
+      "Electronic"
+    ],
+    "filePath": "music\\Fast & Furious\\Speakerbox.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Fast & Furious\\Speakerbox.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Speakerbox.jpeg"
+  },
+  {
+    "title": "This Girl (Kungs vs Cookin' On 3 Burners)",
+    "artist": "Kungs & Cookin' On 3 Burners",
+    "album": "This Girl - EP",
+    "genre": [
+      "Electronic"
+    ],
+    "filePath": "music\\International Songs\\This Girl.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\This Girl.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\This Girl.jpeg"
+  }
+]

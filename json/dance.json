@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Animals",
+    "artist": "Martin Garrix",
+    "album": "Aftercluv Dancelab the Drop, Vol. 1",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Animals.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Animals.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Animals.jpeg"
+  },
+  {
+    "title": "Badam (feat. Mr. Vegas)",
+    "artist": "Hardwell & Henry Fong",
+    "album": "Badam (feat. Mr. Vegas) - Single",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Badam.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Badam.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Badam.jpeg"
+  },
+  {
+    "title": "Closer (feat. Halsey)",
+    "artist": "The Chainsmokers",
+    "album": "Collage - EP",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Closer.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Closer.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Closer.jpeg"
+  },
+  {
+    "title": "Eclipse",
+    "artist": "Hardwell",
+    "album": "United We Are",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Eclipse.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Eclipse.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Eclipse.jpeg"
+  },
+  {
+    "title": "Everything Black",
+    "artist": "Unlike Pluto & Mike Taylor",
+    "album": "Everything Black - Single",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Everything Black.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Everything Black.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Everything Black.jpeg"
+  },
+  {
+    "title": "Fade",
+    "artist": "Alan Walker",
+    "album": "Fade - Single",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Fade.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Fade.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Fade.jpeg"
+  },
+  {
+    "title": "Fade",
+    "artist": "Alan Walker",
+    "album": "Fade - Single",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Faded.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Faded.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Faded.jpeg"
+  },
+  {
+    "title": "Let Me Love You (feat. Justin Bieber)",
+    "artist": "DJ Snake",
+    "album": "Encore",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Let Me Love You (Ft. Justin Bieber).mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Let Me Love You (Ft. Justin Bieber).mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Let Me Love You (Ft. Justin Bieber).jpeg"
+  },
+  {
+    "title": "Light It Up (feat. Nyla & Fuse ODG) [Remix]",
+    "artist": "Major Lazer",
+    "album": "Peace Is The Mission",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Light It Up.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Light It Up.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Light It Up.jpeg"
+  },
+  {
+    "title": "Magenta Riddim",
+    "artist": "DJ Snake",
+    "album": "Carte Blanche (Deluxe)",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Magenta Riddim.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Magenta Riddim.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Magenta Riddim.jpeg"
+  },
+  {
+    "title": "On & On (feat. Daniel Levi)",
+    "artist": "Cartoon",
+    "album": "On & On (feat. Daniel Levi) - Single",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\On & On.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\On & On.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\On & On.jpeg"
+  },
+  {
+    "title": "Sally (feat. Harrison)",
+    "artist": "Hardwell",
+    "album": "United We Are",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Sally (feat. Harrison).mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Sally (feat. Harrison).mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Sally (feat. Harrison).jpeg"
+  },
+  {
+    "title": "Someone To You",
+    "artist": "BANNERS",
+    "album": "Someone To You - EP",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\Someone To You.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Someone To You.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Someone To You.jpeg"
+  },
+  {
+    "title": "This Is What You Came For (feat. Rihanna)",
+    "artist": "Calvin Harris",
+    "album": "This Is What You Came For (feat. Rihanna) - Single",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\International Songs\\This Is What You Came For.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\This Is What You Came For.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\This Is What You Came For.jpeg"
+  },
+  {
+    "title": "Turn Down For What",
+    "artist": "DJ Snake & Lil Jon",
+    "album": "Furious 7 (Original Motion Picture Soundtrack)",
+    "genre": [
+      "Dance"
+    ],
+    "filePath": "music\\Fast & Furious\\Turn Down For What.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Fast & Furious\\Turn Down For What.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Turn Down For What.jpeg"
+  }
+]

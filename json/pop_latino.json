@@ -1,0 +1,13 @@
+[
+  {
+    "title": "SÚBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
+    "artist": "Enrique Iglesias",
+    "album": "SÚBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox) - Single",
+    "genre": [
+      "Pop Latino"
+    ],
+    "filePath": "music\\International Songs\\Subeme La Radio.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Subeme La Radio.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Subeme La Radio.jpeg"
+  }
+]

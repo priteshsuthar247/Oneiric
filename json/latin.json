@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Hey Ma (feat. Camila Cabello) [Spanish Version]",
+    "artist": "Pitbull & J Balvin",
+    "album": "The Fate of the Furious: The Album",
+    "genre": [
+      "Latin"
+    ],
+    "filePath": "music\\Fast & Furious\\Hey Ma feat.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Fast & Furious\\Hey Ma feat.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Hey Ma feat.jpeg"
+  }
+]

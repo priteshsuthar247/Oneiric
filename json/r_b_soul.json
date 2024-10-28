@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "genre": [
+      "R&B",
+      "Soul"
+    ],
+    "filePath": "music\\International Songs\\Blinding Lights.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Blinding Lights.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Blinding Lights.jpeg"
+  },
+  {
+    "title": "How Bad Do You Want It (Oh Yeah)",
+    "artist": "Sevyn Streeter",
+    "album": "Furious 7 (Original Motion Picture Soundtrack)",
+    "genre": [
+      "R&B",
+      "Soul"
+    ],
+    "filePath": "music\\Fast & Furious\\How Bad Do You Want It.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\Fast & Furious\\How Bad Do You Want It.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\How Bad Do You Want It.jpeg"
+  },
+  {
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "genre": [
+      "R&B",
+      "Soul"
+    ],
+    "filePath": "music\\International Songs\\Save Your Tears.mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Save Your Tears.mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Save Your Tears.jpeg"
+  },
+  {
+    "title": "Starboy (feat. Daft Punk)",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "genre": [
+      "R&B",
+      "Soul"
+    ],
+    "filePath": "music\\International Songs\\Starboy (Ft. Daft Punk).mp3",
+    "audioFile": "http://127.0.0.1:5500/music\\International Songs\\Starboy (Ft. Daft Punk).mp3",
+    "albumArt": "http://127.0.0.1:5500/albumArt\\Starboy (Ft. Daft Punk).jpeg"
+  }
+]
