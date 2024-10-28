@@ -1,6 +1,6 @@
 # Oneiric
 
-Oneiric is a simple web-based music player built using HTML, CSS, and JavaScript. It allows users to play their favorite music tracks seamlessly with a visually appealing interface. Users can navigate by genre.
+Oneiric is a simple web-based music player built using HTML, CSS, and JavaScript. It allows users to play their favorite music tracks seamlessly with a minimalistic interface. Users can navigate by genre.
 
 # Images
 ![Screenshot 1](screenshots/1.png)
@@ -35,8 +35,9 @@ To run this project, follow the steps below:
    ```bash
    npm install music-metadata
    ```
-3. Paste your songs into the `\music` directory.
-4. Open the terminal in the project directory and run the following commands: 
+3. Create three directories in the project directory ```music```, ```albumArt``` and ```json```.
+4. Paste your songs into the `\music` directory.
+5. Open the terminal in the project directory and run the following commands: 
    - This will create a JSON file containing the metadata of all the songs present in the `\music` directory.
      ```bash
      node read-metadata.js
@@ -45,9 +46,9 @@ To run this project, follow the steps below:
      ```bash
      node sorting.js
      ```
-5. Download the ```intro.mp4``` from here [intro.mp4](https://drive.google.com/file/d/1laqpT7H4IYjxZxdDT7Vq_A3NWiqTTIUY/view?usp=sharing) and paste it into ```/animations``` directory
-6. Open `\home.html` and change the radio button `value` and `id` attributes to the genre names.
-7. Run the whole directory on a local server at `127.0.0.1:5500`.
+6. Download the ```intro.mp4``` from here [intro.mp4](https://drive.google.com/file/d/1laqpT7H4IYjxZxdDT7Vq_A3NWiqTTIUY/view?usp=sharing) and paste it into ```/animations``` directory
+7. Open `\home.html` and change the radio button `value` and `id` attributes to the genre names.
+8. Run the whole directory on a local server at `127.0.0.1:5500`.
 
 ## Shortcuts
 - Next Song:  
